@@ -1,2 +1,1 @@
-# cyberdefend
-cyberdefend from spandela
+# Lock Divend
